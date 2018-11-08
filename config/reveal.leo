@@ -82,14 +82,6 @@
 <v t="leo.20181109005728.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181109002510.1" a="E"><vh>筆記</vh>
-<v t="leo.20181109002510.2" a="E"><vh>分支</vh>
-<v t="leo.20181109002510.3"><vh>內容</vh></v>
-</v>
-<v t="leo.20181109002845.1" a="E"><vh>分支</vh>
-<v t="leo.20181109002845.2"><vh>內容</vh></v>
-</v>
-</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -549,34 +541,6 @@ DNS server : 140.130.17.3 140.130.1.2
 
 HiNet IPv6 2001:b000:168::1 
 雙冒號表示中間都是零</t>
-<t tx="leo.20181109002510.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-						
-</t>
-<t tx="leo.20181109002510.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109002510.3">&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://localhost:8443/images/8119.jpg" width="973" height="729"&gt;
-&lt;img style="-webkit-user-select: none;cursor: zoom-out;" src="https://localhost:8443/images/8120.jpg" width="1187" height="890"&gt;
-&lt;img style="-webkit-user-select: none;cursor: zoom-out;" src="https://localhost:8443/images/8124.jpg" width="1187" height="890"&gt;</t>
-<t tx="leo.20181109002845.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109002845.2"></t>
 <t tx="leo.20181109005340.1">&lt;section&gt;
 @others
 &lt;/section&gt;
