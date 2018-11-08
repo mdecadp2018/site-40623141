@@ -21,15 +21,78 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181005103630.1" a="E"><vh>投影片</vh>
-<v t="leo.20181005103630.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181005103630.1" a="E"><vh>W1</vh>
+<v t="leo.20181108235040.1" a="E"><vh>分支</vh>
+<v t="leo.20181108235040.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108235701.1" a="E"><vh>W2</vh>
+<v t="leo.20181108235701.2" a="E"><vh>分支</vh>
+<v t="leo.20181108235701.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108235709.1" a="E"><vh>W3</vh>
+<v t="leo.20181108235709.2" a="E"><vh>分支</vh>
+<v t="leo.20181108235709.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108235715.1" a="E"><vh>W4</vh>
+<v t="leo.20181108235715.2" a="E"><vh>分支</vh>
+<v t="leo.20181108235715.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108235717.1" a="E"><vh>W5</vh>
+<v t="leo.20181108235717.2" a="E"><vh>分支</vh>
+<v t="leo.20181108235717.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108235718.1" a="E"><vh>W6</vh>
+<v t="leo.20181108235718.2" a="E"><vh>分支</vh>
+<v t="leo.20181108235718.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108235720.1"><vh>W7</vh>
+<v t="leo.20181108235720.2" a="E"><vh>分支</vh>
+<v t="leo.20181108235720.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109005340.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181109005340.2" a="E"><vh>分支a</vh>
+<v t="leo.20181109005340.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109005358.1" a="E"><vh>分支b</vh>
+<v t="leo.20181109005358.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109005400.1" a="E"><vh>分支c</vh>
+<v t="leo.20181109005400.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109005401.1"><vh>分支d</vh>
+<v t="leo.20181109005401.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109005708.1" a="E"><vh>分支e</vh>
+<v t="leo.20181109005708.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109005717.1" a="E"><vh>分支A</vh>
+<v t="leo.20181109005717.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109005728.1" a="E"><vh>分支B</vh>
+<v t="leo.20181109005728.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109002510.1" a="E"><vh>筆記</vh>
+<v t="leo.20181109002510.2" a="E"><vh>分支</vh>
+<v t="leo.20181109002510.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109002845.1" a="E"><vh>分支</vh>
+<v t="leo.20181109002845.2"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -131,7 +194,7 @@ vertical: body pane on the botton</t>
 
 ### 機械設計工程系
 
-###40623141
+40623141
 
 
 &lt;small&gt;
@@ -332,7 +395,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005103630.1">&lt;section data-markdown&gt;
+<t tx="leo.20181005103630.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235040.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -341,10 +410,249 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005103630.2">### MCAD 2a W4 網際簡報
-### 40623141
+<t tx="leo.20181108235040.2">### Week1
 
-* [CMSimfly](https://github/chamingyen/cmsimfly) 操作
-* [Onshape](https:www.onshape.com)  操作</t>
+* 利用 p37 中的 git 建立個人的 Github Pages 網站
+
+* 這次課程使用github新功能Github Classroom讓課程管理更加方便</t>
+<t tx="leo.20181108235701.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235701.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235701.3">### Week 2
+* 說明如何以 ShareX 取圖, 及如何管理 CMSimfly 作業倉儲.
+
+* 開始使用Onshape 進行繪圖練習
+
+* 學習如何開啟動態與靜態近端</t>
+<t tx="leo.20181108235709.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235709.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235709.3">### Week 3
+* git 基本操作練習
+
+* 學習git branch  分支
+
+        git checkout  切換分支
+
+        git log --oneline --graph --all 印出你的提交歷史, 顯示你的分支指標在哪裡, 以及歷 史如何被分離開來
+
+        git merge   合併分支
+
+        git commit -m ''提交
+
+* 開始使用Onshape 進行繪圖練習</t>
+<t tx="leo.20181108235715.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235715.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235715.3">### Week 4
+* Onshape week1 課程使用說明
+
+* 在onshape遇到困難的單字要學著用英英字典</t>
+<t tx="leo.20181108235717.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235717.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235717.3">### Week5
+* 從 Onshapeweek1 課程到 Onshapeweek2
+
+* 說明計算機程式學習 Python 語法的範圍與開發網際及單機程式的協同規劃架構介紹</t>
+<t tx="leo.20181108235718.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235718.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235718.3">### Week6
+* 檢查每周是否更新自己的網誌 網站 投影片
+
+* 如何更新CMSimfly
+
+* 利用lab-booking-cdlab說明管理內容流程</t>
+<t tx="leo.20181108235720.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108235720.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108235720.3">### Week7
+課程內容
+DNS server : 140.130.17.3 140.130.1.2
+
+系上 2001:288:6004:17::3
+
+學校 2001:288:6004:1::2
+
+HiNet IPv6 2001:b000:168::1 
+雙冒號表示中間都是零</t>
+<t tx="leo.20181109002510.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181109002510.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002510.3">&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://localhost:8443/images/8119.jpg" width="973" height="729"&gt;
+&lt;img style="-webkit-user-select: none;cursor: zoom-out;" src="https://localhost:8443/images/8120.jpg" width="1187" height="890"&gt;
+&lt;img style="-webkit-user-select: none;cursor: zoom-out;" src="https://localhost:8443/images/8124.jpg" width="1187" height="890"&gt;</t>
+<t tx="leo.20181109002845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002845.2"></t>
+<t tx="leo.20181109005340.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181109005340.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005340.3">## Oneshape
+&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/e3enP2dWfrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005358.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005358.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/66oWvEMlEik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005400.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005400.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/rMcYxyKKdxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005401.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005401.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/ahZrFbxd7BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005708.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005708.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/LSaNTUs2Khs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005717.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/kNOaPV25CYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005728.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005728.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/w8yLdx97kKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
