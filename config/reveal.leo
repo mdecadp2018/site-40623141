@@ -24,32 +24,82 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181005103630.1" a="E"><vh>W1</vh>
+<v t="leo.20190414212437.1" a="E"><vh>W1</vh>
+<v t="leo.20190414212437.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212437.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212449.1" a="E"><vh>W2</vh>
+<v t="leo.20190414212449.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212449.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212501.1" a="E"><vh>W3</vh>
+<v t="leo.20190414212501.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212501.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212506.1" a="E"><vh>W4</vh>
+<v t="leo.20190414212506.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212506.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212512.1" a="E"><vh>W5</vh>
+<v t="leo.20190414212512.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212512.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212519.1" a="E"><vh>W6</vh>
+<v t="leo.20190414212519.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212519.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212523.1" a="E"><vh>W7</vh>
+<v t="leo.20190414212523.2" a="E"><vh>分支</vh>
+<v t="leo.20190414212523.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414221424.1" a="E"><vh>W8</vh>
+<v t="leo.20190414221424.2" a="E"><vh>分支</vh>
+<v t="leo.20190414221424.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414222119.1" a="E"><vh>心得</vh>
+<v t="leo.20190414222119.2" a="E"><vh>分支</vh>
+<v t="leo.20190414222119.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414232431.1" a="E"><vh>分隔</vh>
+<v t="leo.20190414232431.2" a="E"><vh>分支</vh>
+<v t="leo.20190414232431.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181005103630.1"><vh>W1</vh>
 <v t="leo.20181108235040.1" a="E"><vh>分支</vh>
 <v t="leo.20181108235040.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108235701.1" a="E"><vh>W2</vh>
+<v t="leo.20181108235701.1"><vh>W2</vh>
 <v t="leo.20181108235701.2" a="E"><vh>分支</vh>
 <v t="leo.20181108235701.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108235709.1" a="E"><vh>W3</vh>
+<v t="leo.20181108235709.1"><vh>W3</vh>
 <v t="leo.20181108235709.2" a="E"><vh>分支</vh>
 <v t="leo.20181108235709.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108235715.1" a="E"><vh>W4</vh>
+<v t="leo.20181108235715.1"><vh>W4</vh>
 <v t="leo.20181108235715.2" a="E"><vh>分支</vh>
 <v t="leo.20181108235715.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108235717.1" a="E"><vh>W5</vh>
+<v t="leo.20181108235717.1"><vh>W5</vh>
 <v t="leo.20181108235717.2" a="E"><vh>分支</vh>
 <v t="leo.20181108235717.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108235718.1" a="E"><vh>W6</vh>
+<v t="leo.20181108235718.1"><vh>W6</vh>
 <v t="leo.20181108235718.2" a="E"><vh>分支</vh>
 <v t="leo.20181108235718.3"><vh>內容</vh></v>
 </v>
@@ -182,11 +232,11 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019 協同產品設計實習
 
 ### 機械設計工程系
 
-40623141
+40623141何立翔
 
 
 &lt;small&gt;
@@ -406,7 +456,9 @@ make.start()
 
 * 利用 p37 中的 git 建立個人的 Github Pages 網站
 
-* 這次課程使用github新功能Github Classroom讓課程管理更加方便</t>
+* 這次課程使用github新功能Github Classroom讓課程管理更加方便
+
+</t>
 <t tx="leo.20181108235701.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -427,7 +479,9 @@ make.start()
 
 * 開始使用Onshape 進行繪圖練習
 
-* 學習如何開啟動態與靜態近端</t>
+* 學習如何開啟動態與靜態近端
+
+</t>
 <t tx="leo.20181108235709.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -456,7 +510,9 @@ make.start()
 
         git commit -m ''提交
 
-* 開始使用Onshape 進行繪圖練習</t>
+* 開始使用Onshape 進行繪圖練習
+
+</t>
 <t tx="leo.20181108235715.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -475,7 +531,9 @@ make.start()
 <t tx="leo.20181108235715.3">### Week 4
 * Onshape week1 課程使用說明
 
-* 在onshape遇到困難的單字要學著用英英字典</t>
+* 在onshape遇到困難的單字要學著用英英字典
+
+</t>
 <t tx="leo.20181108235717.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -494,7 +552,9 @@ make.start()
 <t tx="leo.20181108235717.3">### Week5
 * 從 Onshapeweek1 課程到 Onshapeweek2
 
-* 說明計算機程式學習 Python 語法的範圍與開發網際及單機程式的協同規劃架構介紹</t>
+* 說明計算機程式學習 Python 語法的範圍與開發網際及單機程式的協同規劃架構介紹
+
+</t>
 <t tx="leo.20181108235718.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -515,7 +575,9 @@ make.start()
 
 * 如何更新CMSimfly
 
-* 利用lab-booking-cdlab說明管理內容流程</t>
+* 利用lab-booking-cdlab說明管理內容流程
+
+</t>
 <t tx="leo.20181108235720.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -540,7 +602,9 @@ DNS server : 140.130.17.3 140.130.1.2
 學校 2001:288:6004:1::2
 
 HiNet IPv6 2001:b000:168::1 
-雙冒號表示中間都是零</t>
+雙冒號表示中間都是零
+
+</t>
 <t tx="leo.20181109005340.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -557,7 +621,9 @@ HiNet IPv6 2001:b000:168::1
 						
 </t>
 <t tx="leo.20181109005340.3">## Oneshape
-&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/e3enP2dWfrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/e3enP2dWfrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005358.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -567,7 +633,9 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20181109005358.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/66oWvEMlEik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005358.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/66oWvEMlEik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005400.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -577,7 +645,9 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20181109005400.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/rMcYxyKKdxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005400.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/rMcYxyKKdxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005401.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -587,7 +657,9 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20181109005401.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/ahZrFbxd7BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005401.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/ahZrFbxd7BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005708.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -597,7 +669,9 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20181109005708.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/LSaNTUs2Khs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005708.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/LSaNTUs2Khs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005717.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -607,7 +681,9 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20181109005717.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/kNOaPV25CYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005717.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/kNOaPV25CYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005728.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -617,6 +693,197 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20181109005728.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/w8yLdx97kKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005728.2">&lt;iframe width="855" height="490" src="https://www.youtube.com/embed/w8yLdx97kKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190414212437.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212437.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212437.3">## Week1
+
+* 以往我們都是下載老師的隨身系統
+* 開學第一週我們學習自己建立一個[可攜式系統](https://www.youtube.com/watch?v=uEq_GtkkPx8&amp;t=865s)，
+讓我們對可攜式系統架構更加了解</t>
+<t tx="leo.20190414212449.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212449.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212449.3">## Week 2
+
+* 說明這堂課這學期將要做的事
+* 這門科目將採用電腦隨機分組，打散以往自己分組的組員，並協同使用共同倉儲製作網站
+* 每週自評成績 與小組組員互評成績</t>
+<t tx="leo.20190414212501.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212501.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212501.3">## Week 3
+
+* 電腦隨機分組確定
+* 學習使用 ungit 進行倉儲內容的新增提交與推送</t>
+<t tx="leo.20190414212506.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212506.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212506.3">## Week 4
+
+* 這週學校IvP4網路故障，臨時改用了IvP6，使用起來還是很卡
+* 協調小組分工
+</t>
+<t tx="leo.20190414212512.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212512.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212512.3">## Week5
+
+* 小組分工分配到研究Vrep
+* 學習製作[bubbleRob](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)</t>
+<t tx="leo.20190414212519.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212519.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212519.3">## Week6
+
+* 製作Vrep BubbleRob完成
+</t>
+<t tx="leo.20190414212523.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414212523.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414212523.3">## Week7
+
+* Onshape 繪製手足球</t>
+<t tx="leo.20190414221424.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414221424.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414221424.3">## Week8
+
+* Vrep 實習任務三</t>
+<t tx="leo.20190414222119.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414222119.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414222119.3">#### 心得
+&lt;small&gt;
+這門課使用電腦隨機分組，雖然分到的組員都跟以前不一樣，但大家都很團結，一開始大家就分工合作，分配每個組員的工作，讓大家都能做到事。
+我在這堂課學習到如何自行建立可攜系統，使用ungit新增和推送資料，以及製作V-rep，在學習vrep過程中遇到很多困難，他的教程是全英文的，閱讀起來非常吃力，但也按部就班的還是完成BubbleRob，讓我對vrep各項操作有一定的了解後，我們將要製作手足球並放入Vrep內進行模擬，但最難的部份是要自行寫程式放入腳本，幸運的是vrep也可以使用python寫，相信在期末之前能夠對python程式語法有更深的了解。
+&lt;/small&gt;</t>
+<t tx="leo.20190414232431.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190414232431.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190414232431.3"></t>
 </tnodes>
 </leo_file>
