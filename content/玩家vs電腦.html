@@ -61,7 +61,7 @@ $(function(){
 
 </ul>
 </confmenu></header>
-<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><li><a href='手足球程式.html'>手足球程式</a><ul><li><a href='玩家vs玩家.html'>玩家vs玩家</a><li><a href='玩家vs電腦.html'>玩家vs電腦</a><li><a href='電腦vs電腦.html'>電腦vs電腦</a><li><a href='程式除錯.html'>程式除錯</a><li><a href='程式優化.html'>程式優化</a></li></ul><li><a href='期中.html'>期中</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><ul><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='課程作業心得.html'>課程作業心得</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a><li><a href='Week8.html'>Week8</a><li><a href='Week9.html'>Week9</a><li><a href='Week10.html'>Week10</a><li><a href='Week11.html'>Week11</a><li><a href='Week14.html'>Week14</a><li><a href='Week15.html'>Week15</a></li></ul><li><a href='Onshape練習.html'>Onshape練習</a><li><a href='筆記.html'>筆記</a><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>玩家vs玩家 << <a href='玩家vs玩家.html'>Previous</a> <a href='電腦vs電腦.html'>Next</a> >> 電腦vs電腦<br /><h1>玩家vs電腦</h1>
+<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><li><a href='手足球程式.html'>手足球程式</a><ul><li><a href='玩家vs玩家.html'>玩家vs玩家</a><li><a href='玩家vs電腦.html'>玩家vs電腦</a><li><a href='電腦vs電腦舊版.html'>電腦vs電腦舊版</a><li><a href='電腦vs電腦新版.html'>電腦vs電腦新版</a><li><a href='程式除錯.html'>程式除錯</a><li><a href='程式優化.html'>程式優化</a></li></ul><li><a href='Vrep.html'>Vrep</a><ul><li><a href='Vrep簡化.html'>Vrep簡化</a></li></ul><li><a href='Onshape.html'>Onshape</a><li><a href='期中.html'>期中</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><ul><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='課程作業心得.html'>課程作業心得</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a><li><a href='Week8.html'>Week8</a><li><a href='Week9.html'>Week9</a><li><a href='Week10.html'>Week10</a><li><a href='Week11.html'>Week11</a><li><a href='Week14.html'>Week14</a><li><a href='Week15.html'>Week15</a></li></ul><li><a href='Onshape練習.html'>Onshape練習</a><li><a href='筆記.html'>筆記</a><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>玩家vs玩家 << <a href='玩家vs玩家.html'>Previous</a> <a href='電腦vs電腦舊版.html'>Next</a> >> 電腦vs電腦舊版<br /><h1>玩家vs電腦</h1>
 <pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import vrep
 import keyboard
 from time import sleep
@@ -124,38 +124,34 @@ def getballposition():
     Rv =position_S[1] - position_RR[1]
     RRv =position_S[2] - position_RR[2]
     while True:
-        if Bv &lt;= 0 and BBv &lt;= 0.02:
-            errorCode,position_BR=vrep.simxGetObjectPosition(clientID,BRod_handle,-1,vrep.simx_opmode_oneshot)
-            errorCode,position_S=vrep.simxGetObjectPosition(clientID,Sphere_handle,-1,vrep.simx_opmode_oneshot)
-            Bv =position_S[1]- position_BR[1]
-            BBv =position_S[0] - position_BR[0]
-            vrep.simxSetJointTargetVelocity(clientID,BRev_handle,B_KickBallVel,vrep.simx_opmode_oneshot_wait)
-         
-        elif Bv &gt; 0 and BBv &lt;= 0.02:
-            errorCode,position_BR=vrep.simxGetObjectPosition(clientID,BRod_handle,-1,vrep.simx_opmode_oneshot)
-            errorCode,position_S=vrep.simxGetObjectPosition(clientID,Sphere_handle,-1,vrep.simx_opmode_oneshot)
-            Bv =position_S[1]- position_BR[1]
-            BBv =position_S[0] - position_BR[0]
-            vrep.simxSetJointTargetVelocity(clientID,BRev_handle,B_KickBallVel,vrep.simx_opmode_oneshot_wait)
-             
-        elif Bv &lt;= 0 and BBv &gt; 0.02:
-            errorCode,position_BR=vrep.simxGetObjectPosition(clientID,BRod_handle,-1,vrep.simx_opmode_oneshot)
-            errorCode,position_S=vrep.simxGetObjectPosition(clientID,Sphere_handle,-1,vrep.simx_opmode_oneshot)
-            Bv =position_S[1]- position_BR[1]
-            BBv =position_S[0] - position_BR[0]
-            vrep.simxSetJointTargetVelocity(clientID,BRev_handle,R_KickBallVel,vrep.simx_opmode_oneshot_wait)
-         
-        elif Bv &gt; 0 and BBv &gt; 0.02:
-            errorCode,position_BR=vrep.simxGetObjectPosition(clientID,BRod_handle,-1,vrep.simx_opmode_oneshot)
-            errorCode,position_S=vrep.simxGetObjectPosition(clientID,Sphere_handle,-1,vrep.simx_opmode_oneshot)
-            Bv =position_S[1]- position_BR[1]
-            BBv =position_S[0] - position_BR[0]
-            vrep.simxSetJointTargetVelocity(clientID,BRev_handle,R_KickBallVel,vrep.simx_opmode_oneshot_wait)
+        if position_S[0] &gt;= 1.185 and RRev_deg &gt;= 25:  #球進入擊球區 and 桿子擊出
+            if position_RR[1]&gt;=0.5:  #桿子偏右邊
+                speed(RMo_handle, -0.08)
+                sleep(0.2)
+                speed(RRev_handle, B_KickBallVel)
+                sleep(0.2)
+                
+            elif position_RR[1] &lt; 0.5:  #桿子偏左邊
+                speed(RMo_handle, 0.08)
+                sleep(0.2)
+                speed(RRev_handle, B_KickBallVel)
+                sleep(0.2)
+                
+        elif position_S[0] &gt;= 1.185 and  RRev_deg &lt;=0:  #球進入擊球區 and 桿子收回
+            
+            if Rv&gt;= -0.01 and Rv &lt;0.01:  #進入左右擊球範圍
+                speed(RRev_handle, R_KickBallVel)
+                
+            else:
+                speed(RRev_handle, B_KickBallVel)
+                
+        elif position_S[0] &lt; 1.185:  #球未進入擊球區
+            speed(RRev_handle,B_KickBallVel)
         
         try:
             if keyboard.is_pressed('o'): 
                 vrep.simxSetJointTargetVelocity(clientID,RRev_handle,R_KickBallVel,vrep.simx_opmode_oneshot_wait)
-            else:
+            elif keyboard.is_pressed('p'):
                 vrep.simxSetJointTargetVelocity(clientID,RRev_handle,B_KickBallVel,vrep.simx_opmode_oneshot_wait)
             if keyboard.is_pressed('u'):  
                 vrep.simxSetJointTargetVelocity(clientID,RMo_handle,0.1,vrep.simx_opmode_oneshot_wait)
@@ -178,10 +174,5 @@ start()
 getballposition()
 stop()
 
-
-#vrep.simxSetJointTargetVelocity(clientID,BRev_handle,B_KickBallVel,vrep.simx_opmode_oneshot_wait)
-#vrep.simxSetJointTargetVelocity(clientID,BMo_handle,Move,vrep.simx_opmode_oneshot_wait)
-
-#vrep.simxSetJointTargetVelocity(clientID,RRev_handle,R_KickBallVel,vrep.simx_opmode_oneshot_wait)
-#vrep.simxSetJointTargetVelocity(clientID,RMo_handle,Move,vrep.simx_opmode_oneshot_wait)</pre>
-<br />玩家vs玩家 << <a href='玩家vs玩家.html'>Previous</a> <a href='電腦vs電腦.html'>Next</a> >> 電腦vs電腦</section></div></body></html>
+</pre>
+<br />玩家vs玩家 << <a href='玩家vs玩家.html'>Previous</a> <a href='電腦vs電腦舊版.html'>Next</a> >> 電腦vs電腦舊版</section></div></body></html>
