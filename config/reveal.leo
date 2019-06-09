@@ -21,12 +21,52 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190414212437.1" a="E"><vh>W1</vh>
+<v t="leo.20190609235014.1"><vh>評分重點</vh>
+<v t="leo.20190609235014.2" a="E"><vh>分支</vh>
+<v t="leo.20190609235014.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190609235709.1"><vh>Vrep</vh>
+<v t="leo.20190609235709.2" a="E"><vh>分支</vh>
+<v t="leo.20190609235709.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190609235726.1"><vh>程式開發</vh>
+<v t="leo.20190609235726.2" a="E"><vh>分支</vh>
+<v t="leo.20190609235726.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190609235729.1"><vh>電腦電腦</vh>
+<v t="leo.20190609235729.2" a="E"><vh>分支</vh>
+<v t="leo.20190609235729.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190610000853.1"><vh>Onshap</vh>
+<v t="leo.20190610000853.2" a="E"><vh>分支</vh>
+<v t="leo.20190610000853.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190610000955.1"><vh>心得</vh>
+<v t="leo.20190610000955.2" a="E"><vh>分支</vh>
+<v t="leo.20190610000955.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190414212437.1"><vh>評分</vh>
 <v t="leo.20190414212437.2" a="E"><vh>分支</vh>
 <v t="leo.20190414212437.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190610002635.1" a="E"><vh>W1</vh>
+<v t="leo.20190610002635.2" a="E"><vh>分支</vh>
+<v t="leo.20190610002635.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190609234644.1"><vh>W1</vh>
+<v t="leo.20190609234644.2" a="E"><vh>分支</vh>
+<v t="leo.20190609234644.3"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20190414212449.1" a="E"><vh>W2</vh>
@@ -234,7 +274,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2019 協同產品設計實習
 
-### 機械設計工程系
+### 機械設計工程系 期末報告
 
 40623141何立翔
 
@@ -711,11 +751,19 @@ HiNet IPv6 2001:b000:168::1
 
 						
 </t>
-<t tx="leo.20190414212437.3">## Week1
+<t tx="leo.20190414212437.3">## 評分比例:
 
-* 以往我們都是下載老師的隨身系統
-* 開學第一週我們學習自己建立一個[可攜式系統](https://www.youtube.com/watch?v=uEq_GtkkPx8&amp;t=865s)，
-讓我們對可攜式系統架構更加了解</t>
+學員出席 (20%):20
+
+Github 倉儲管理  (20%):15
+
+Onshape 協同操作 (20%):5
+
+V-rep 模擬 (20%):10
+
+程式開發 (20%):15
+
+自評成績:65</t>
 <t tx="leo.20190414212449.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -735,7 +783,9 @@ HiNet IPv6 2001:b000:168::1
 
 * 說明這堂課這學期將要做的事
 * 這門科目將採用電腦隨機分組，打散以往自己分組的組員，並協同使用共同倉儲製作網站
-* 每週自評成績 與小組組員互評成績</t>
+* 每週自評成績 與小組組員互評成績
+
+</t>
 <t tx="leo.20190414212501.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -754,7 +804,9 @@ HiNet IPv6 2001:b000:168::1
 <t tx="leo.20190414212501.3">## Week 3
 
 * 電腦隨機分組確定
-* 學習使用 ungit 進行倉儲內容的新增提交與推送</t>
+* 學習使用 ungit 進行倉儲內容的新增提交與推送
+
+</t>
 <t tx="leo.20190414212506.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -793,7 +845,9 @@ HiNet IPv6 2001:b000:168::1
 <t tx="leo.20190414212512.3">## Week5
 
 * 小組分工分配到研究Vrep
-* 學習製作[bubbleRob](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)</t>
+* 學習製作[bubbleRob](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm)
+
+</t>
 <t tx="leo.20190414212519.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -830,7 +884,9 @@ HiNet IPv6 2001:b000:168::1
 </t>
 <t tx="leo.20190414212523.3">## Week7
 
-* Onshape 繪製手足球</t>
+* Onshape 繪製手足球
+
+</t>
 <t tx="leo.20190414221424.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -848,7 +904,9 @@ HiNet IPv6 2001:b000:168::1
 </t>
 <t tx="leo.20190414221424.3">## Week8
 
-* Vrep 實習任務三</t>
+* Vrep 實習任務三
+
+</t>
 <t tx="leo.20190414222119.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -868,7 +926,9 @@ HiNet IPv6 2001:b000:168::1
 &lt;small&gt;
 這門課使用電腦隨機分組，雖然分到的組員都跟以前不一樣，但大家都很團結，一開始大家就分工合作，分配每個組員的工作，讓大家都能做到事。
 我在這堂課學習到如何自行建立可攜系統，使用ungit新增和推送資料，以及製作V-rep，在學習vrep過程中遇到很多困難，他的教程是全英文的，閱讀起來非常吃力，但也按部就班的還是完成BubbleRob，讓我對vrep各項操作有一定的了解後，我們將要製作手足球並放入Vrep內進行模擬，但最難的部份是要自行寫程式放入腳本，幸運的是vrep也可以使用python寫，相信在期末之前能夠對python程式語法有更深的了解。
-&lt;/small&gt;</t>
+&lt;/small&gt;
+
+</t>
 <t tx="leo.20190414232431.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -885,5 +945,169 @@ HiNet IPv6 2001:b000:168::1
 						
 </t>
 <t tx="leo.20190414232431.3"></t>
+<t tx="leo.20190609234644.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190609234644.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609234644.3">## Week1
+
+* 以往我們都是下載老師的隨身系統
+* 開學第一週我們學習自己建立一個[可攜式系統](https://www.youtube.com/watch?v=uEq_GtkkPx8&amp;t=865s)，
+讓我們對可攜式系統架構更加了解
+
+</t>
+<t tx="leo.20190609235014.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190609235014.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609235014.3">期末評分重點
+
+* 學員出席
+* Github 倉儲管理
+* Onshape 協同操作
+* V-rep 模擬
+* 程式開發</t>
+<t tx="leo.20190609235709.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190609235709.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609235709.3">## Vrep 模擬
+
+* 學習Vrep簡化
+* 導入程式進行動態模擬</t>
+<t tx="leo.20190609235726.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190609235726.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609235726.3">## 程式開發
+ 玩家對玩家
+
+程式利用python的keyboard mudule來配和按鍵控制
+
+所使用的是keyboard.is_pressed
+
+如果按下鍵，則返回True
+
+* 遇到的程式錯誤
+* 優化程式修改</t>
+<t tx="leo.20190609235729.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190609235729.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609235729.3">## 電腦對打
+
+* 遇到 Bug 修改錯誤
+
+</t>
+<t tx="leo.20190610000853.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610000853.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610000853.3">## Week1
+
+* 手足球場地與球員初圖</t>
+<t tx="leo.20190610000955.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610000955.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610000955.3">## 心得:
+
+我們這次期末分組是由大家分工合作的方式，而我分配到程式開發，一開始覺得程式太難了短短幾週很難學得會，特別感謝組長從基本的開始教，while、for迴圈還有怎麼使用Python導入Vrep，在期中過後沒多久組長已經寫完大部分程式，但程式還是有一些錯誤或是有更好的寫法，而我專門負責的領域就是修改優化等等，在這短短幾週從完全看不懂，到現在除了看懂外甚至還能做修改覺得進步了很多，希望以後能夠寫出更有挑戰性的程式。</t>
+<t tx="leo.20190610002635.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190610002635.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610002635.3">
+
+# 報告結束
+</t>
 </tnodes>
 </leo_file>
